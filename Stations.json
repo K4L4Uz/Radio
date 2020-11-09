@@ -287,6 +287,12 @@
             "Stream": "http://naxi128.streaming.rs:9150/",
             "Logo": "https://epg.serbianforum.org/radio/121.png",
             "Site": "http://www.naxi.rs"
+        }, {
+            "Name": "Rock radio",
+            "Genre": "Rock",
+            "Stream": "https://mastermedia.shoutca.st/proxy/rockradio?mp=/stream",
+            "Logo": "https://epg.serbianforum.org/radio/rrr.jpg",
+            "Site": "https://rockradio.rs/"
         }
     ],
     "Montenegro": [{
@@ -1341,6 +1347,20 @@
             "Stream": "http://195.95.158.131:9040/;*.mp3",
             "Logo": "https://epg.serbianforum.org/radio/a.jpg",
             "Site": "https://radioaktual.si/"
+        }
+    ],
+    "Other": [{
+            "Name":"181.FM Soul",
+            "Genre":"Soul",
+            "Stream":"https://listen.181fm.com/181-soul_128k.mp3",
+            "Logo":"https://cdn-radiotime-logos.tunein.com/s90407q.png",
+            "Site":"http://www.181.fm/"
+        }, {
+            "Name": "Reggae Revolution radio",
+            "Genre": "Reggae",
+            "Stream": "http://stm11.painelvox.com:8122/;",
+            "Logo": "https://epg.serbianforum.org/radio/revv.jpg",
+            "Site": "http://www.radioreggaerevolution.com.br/"
         }
     ]
 }
