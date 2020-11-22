@@ -293,6 +293,42 @@
             "Stream": "https://mastermedia.shoutca.st/proxy/rockradio?mp=/stream",
             "Logo": "https://epg.serbianforum.org/radio/rrr.jpg",
             "Site": "https://rockradio.rs/"
+        }, {
+            "Name": "Puls Grocka radio",
+            "Genre": "Narodna",
+            "Stream": "http://176.9.59.144:8090/puls",
+            "Logo": "https://epg.serbianforum.org/radio/puls.jpg",
+            "Site": "http://www.radiopuls.rs/"
+        }, {
+            "Name": "Mackica radio",
+            "Genre": "Narodna",
+            "Stream": "http://cast2.name.ba:8153/;stream.nsv",
+            "Logo": "https://epg.serbianforum.org/radio/mack.jpg",
+            "Site": "https://www.radiomackica.com/"
+        }, {
+            "Name": "Juzni vetar radio",
+            "Genre": "Narodna",
+            "Stream": "http://85.25.134.32:8000/stream",
+            "Logo": "https://epg.serbianforum.org/radio/jve.jpg",
+            "Site": "https://www.radiofm.rs/juzni-vetar"
+        }, {
+            "Name": "IN radio",
+            "Genre": "Pop",
+            "Stream": "http://inradio96-naxinacional.streaming.rs:8580/;",
+            "Logo": "https://epg.serbianforum.org/radio/in.jpg",
+            "Site": "https://radioin.co.rs/"
+        }, {
+            "Name": "Nova S radio",
+            "Genre": "Rock,Pop",
+            "Stream": "http://radio.novas.tv/novas.mp3",
+            "Logo": "https://epg.serbianforum.org/radio/nova.jpg",
+            "Site": "https://nova.rs/novas-radio/"
+        }, {
+            "Name": "Magnum radio",
+            "Genre": "Rock,Pop",
+            "Stream": "http://stream.iradio.pro:8032/stream",
+            "Logo": "https://epg.serbianforum.org/radio/mag.jpg",
+            "Site": "https://radiomagnum.rs/"
         }
     ],
     "Montenegro": [{
@@ -334,7 +370,7 @@
         }, {
             "Name": "Kotor radio",
             "Genre": "Zabavna, Pop",
-            "Stream": "http://213.239.205.210:8082/stream",
+            "Stream": "http://46.105.43.31:8094/stream",
             "Logo": "https://epg.serbianforum.org/radio/kotor.png",
             "Site": "http://www.radiokotor.info/radio"
         }, {
@@ -657,6 +693,48 @@
             "Stream": "http://s7.voscast.com:7096/;*.mp3",
             "Logo": "https://epg.serbianforum.org/radio/skr.jpg",
             "Site": "http://www.snaga-krajine.info"
+        }, {
+            "Name": "Rsg radio",
+            "Genre": "Zabavna",
+            "Stream": "http://116.203.7.166:9000/;stream.nsv",
+            "Logo": "https://epg.serbianforum.org/radio/rsg.jpg",
+            "Site": "https://www.radio.rsg.ba/"
+        }, {
+            "Name": "Pop Fm radio",
+            "Genre": "Zabavna",
+            "Stream": "http://188.40.62.20:8032/;stream.nsv",
+            "Logo": "https://epg.serbianforum.org/radio/pfm.jpg",
+            "Site": "https://www.popfm.ba/"
+        }, {
+            "Name": "Balkan DJ radio",
+            "Genre": "Folk",
+            "Stream": "http://balkan.dj.topstream.net:8070/;",
+            "Logo": "https://epg.serbianforum.org/radio/baldj.jpg",
+            "Site": "http://balkan.dj/v2/"
+        }, {
+            "Name": "Kalman radio",
+            "Genre": "Narodna, Zabavna, Folk",
+            "Stream": "http://163.172.213.155:8203/stream",
+            "Logo": "https://epg.serbianforum.org/radio/kal.jpg",
+            "Site": "http://www.kalmanradio.ba"
+        }, {
+            "Name": "Velkaton radio",
+            "Genre": "Narodna, Folk",
+            "Stream": "http://188.40.62.20:8044/stream",
+            "Logo": "https://epg.serbianforum.org/radio/velk.jpg",
+            "Site": "http://www.velkaton.ba"
+        }, {
+            "Name": "Sehara radio",
+            "Genre": "Narodna",
+            "Stream": "http://5.9.25.50:9320/;stream.nsv",
+            "Logo": "https://epg.serbianforum.org/radio/seh.jpg",
+            "Site": "http://radiosehara.net"
+        }, {
+            "Name": "Obican radio",
+            "Genre": "Narodna, Zabavna, Klasična",
+            "Stream": "http://ca4.rcast.net:8010/;",
+            "Logo": "https://epg.serbianforum.org/radio/obr.jpg",
+            "Site": "https://www.obican.info"
         }
     ],
     "Croatia": [{
@@ -911,6 +989,24 @@
             "Stream": "http://pa-hosting.de:23573/;*.mp3",
             "Logo": "https://epg.serbianforum.org/radio/lb.jpg",
             "Site": "http://www.radio-ludbreg.hr"
+        }, {
+            "Name": "Gold (S)EX YU radio",
+            "Genre": "Zabavna",
+            "Stream": "http://c5.hostingcentar.com:8157",
+            "Logo": "https://epg.serbianforum.org/radio/gfmr.jpg",
+            "Site": "http://goldfm.hr"
+        }, {
+            "Name": "Sjeverozapad radio",
+            "Genre": "Zabavna",
+            "Stream": "http://winweb1.novi-net.net:8030/rnwH",
+            "Logo": "https://epg.serbianforum.org/radio/sjev.jpg",
+            "Site": "http://sjeverozapad.hr"
+        }, {
+            "Name": "Krizevci radio",
+            "Genre": "Zabavna",
+            "Stream": "https://s8.iqstreaming.com:8048/stream",
+            "Logo": "https://epg.serbianforum.org/radio/kri.jpg",
+            "Site": "https://radiokrizevci.hr/livestream/"
         }
     ],
     "Macedonia": [{
@@ -1361,6 +1457,12 @@
             "Stream": "http://stm11.painelvox.com:8122/;",
             "Logo": "https://epg.serbianforum.org/radio/revv.jpg",
             "Site": "http://www.radioreggaerevolution.com.br/"
+        }, {
+            "Name": "Antenne Bayern Oldies but Goldies",
+            "Genre": "Zabava",
+            "Stream": "http://mp3channels.webradio.antenne.de/oldies-but-goldies.aac",
+            "Logo": "https://epg.serbianforum.org/radio/obg.jpg",
+            "Site": "http://oldiesbutgoldies.antenne.de/oldiesbutgoldies"
         }
     ]
 }
