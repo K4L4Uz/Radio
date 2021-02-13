@@ -326,9 +326,33 @@
         }, {
             "Name": "Magnum radio",
             "Genre": "Rock,Pop",
-            "Stream": "http://stream.iradio.pro:8032/stream",
+            "Stream": "http://magnum.web-srbija.net:8121",
             "Logo": "https://epg.serbianforum.org/radio/mag.jpg",
             "Site": "https://radiomagnum.rs/"
+        }, {
+            "Name": "Play Party radio",
+            "Genre": "Rock,Pop",
+            "Stream": "https://stream.playradio.rs:8443/party.mp3",
+            "Logo": "https://epg.serbianforum.org/radio/pp.png",
+            "Site": "https://playradio.rs/"
+        }, {
+            "Name": "Play Rock radio",
+            "Genre": "Rock",
+            "Stream": "https://stream.playradio.rs:8443/rock.mp3",
+            "Logo": "https://epg.serbianforum.org/radio/pr.png",
+            "Site": "https://playradio.rs/"
+        }, {
+            "Name": "Play Soft radio",
+            "Genre": "Rock,Soft",
+            "Stream": "https://stream.playradio.rs:8443/soft.mp3",
+            "Logo": "https://epg.serbianforum.org/radio/pso.png",
+            "Site": "https://playradio.rs/"
+        }, {
+            "Name": "Play Urban radio",
+            "Genre": "Rock,Urban",
+            "Stream": "https://stream.playradio.rs:8443/urban.mp3",
+            "Logo": "https://epg.serbianforum.org/radio/pu.png",
+            "Site": "https://playradio.rs/"
         }
     ],
     "Montenegro": [{
@@ -1012,9 +1036,9 @@
     "Macedonia": [{
             "Name": "Bubamara radio",
             "Genre": "Zabavna, pop",
-            "Stream": "https://streaming.tdiradio.com/tdiradio.mp3",
+            "Stream": "http://stream.bubamara.com.mk/live-128.aac",
             "Logo": "https://epg.serbianforum.org/radio/bu.jpg",
-            "Site": "http://www.radiobubamara.mk"
+            "Site": "http://play.radiobubamara.mk/"
         }, {
             "Name": "105 radio",
             "Genre": "Narodna, Zabavna, Folk",
