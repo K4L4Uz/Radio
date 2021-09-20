@@ -559,6 +559,76 @@
       "Stream": "http:\/\/streaming.orion.rs:8030\/;",
       "Logo": "https:\/\/epg.serbianforum.org\/radio\/bravosr.png",
       "Site": "http:\/\/www.bravofm.net\/"
+    },
+    {
+      "Name": "Antena Krusevac radio",
+      "Genre": "Narodna",
+      "Stream": "http:\/\/antenaradio.org:4550\/;",
+      "Logo": "https:\/\/epg.serbianforum.org\/radio\/antenak.png",
+      "Site": "https:\/\/www.antenaradio.rs\/"
+    },
+    {
+      "Name": "Belle Amie radio",
+      "Genre": "Narodna",
+      "Stream": "http:\/\/92.60.230.200:5040\/;",
+      "Logo": "https:\/\/epg.serbianforum.org\/radio\/bam.png",
+      "Site": "http:\/\/belami.rs\/radio-uzivo\/"
+    },
+    {
+      "Name": "RTS Beograd 1 radio",
+      "Genre": "Zabavna,Narodna",
+      "Stream": "https:\/\/20863.live.streamtheworld.com\/RFMONTHEROCKAAC.aac",
+      "Logo": "https:\/\/epg.serbianforum.org\/radio\/rb1.jpg",
+      "Site": "http:\/\/www.radiobeograd.rs"
+    },
+    {
+      "Name": "RTS Beograd 2 radio",
+      "Genre": "Zabavna,Narodna",
+      "Stream": "https:\/\/rtsradio-live.morescreens.com\/RTS_2_001\/playlist.m3u8",
+      "Logo": "https:\/\/epg.serbianforum.org\/radio\/rb2.png",
+      "Site": "http:\/\/www.radiobeograd.rs"
+    },
+    {
+      "Name": "RTV Novi Sad 1 radio",
+      "Genre": "Zabavna,Narodna",
+      "Stream": "http:\/\/79.101.121.123:1935\/rns1\/prviprogram\/livestream\/playlist.m3u8",
+      "Logo": "https:\/\/epg.serbianforum.org\/radio\/rtv1.png",
+      "Site": "https:\/\/www.rtv.rs\/"
+    },
+    {
+      "Name": "RTV Novi Sad 2 radio",
+      "Genre": "Zabavna,Narodna",
+      "Stream": "http:\/\/79.101.121.123:1935\/rns2\/drugiprogram\/livestream\/playlist.m3u8",
+      "Logo": "https:\/\/epg.serbianforum.org\/radio\/rtv2.png",
+      "Site": "https:\/\/www.rtv.rs\/"
+    },
+    {
+      "Name": "RTV Novi Sad 3 radio",
+      "Genre": "Zabavna,Narodna",
+      "Stream": "http:\/\/79.101.121.123:1935\/rns3\/treciprogram\/livestream\/playlist.m3u8",
+      "Logo": "https:\/\/epg.serbianforum.org\/radio\/rtv3.png",
+      "Site": "https:\/\/www.rtv.rs\/"
+    },
+    {
+      "Name": "San Loznica radio ",
+      "Genre": "Zabavna",
+      "Stream": "https:\/\/s1.skeletor.rs\/san",
+      "Logo": "https:\/\/epg.serbianforum.org\/radio\/san.png",
+      "Site": "https:\/\/lotel.rs\/san-radio-live\/"
+    },
+    {
+      "Name": "BB radio",
+      "Genre": "Zabavna",
+      "Stream": "http:\/\/mediahosting025.com:8383\/;",
+      "Logo": "https:\/\/epg.serbianforum.org\/radio\/bb.png",
+      "Site": "https:\/\/www.bbradio.rs\/"
+    },
+    {
+      "Name": "Gracanica radio",
+      "Genre": "Zabavna,Narodna",
+      "Stream": "http:\/\/radio.striminghost.com:8012\/wp-content\/uploads\/my-music\/mysong.mp3",
+      "Logo": "https:\/\/epg.serbianforum.org\/radio\/grac.png",
+      "Site": "http:\/\/rtg.rs\/"
     }
   ],
   "Montenegro": [
@@ -841,6 +911,20 @@
       "Stream": "http:\/\/orion.shoutca.st:8056\/stream",
       "Logo": "https:\/\/epg.serbianforum.org\/radio\/staracg.png",
       "Site": "https:\/\/radiomap.eu\/me\/play\/dplus"
+    },
+    {
+      "Name": "S1 CG radio",
+      "Genre": "Zabavna",
+      "Stream": "https:\/\/53be5ef2d13aa.streamlock.net\/asmedia\/radios1-cg\/playlist.m3u8",
+      "Logo": "https:\/\/epg.serbianforum.org\/radio\/s1cg.png",
+      "Site": "https:\/\/www.radios.rs\/digitalni-radio\/23\/radio-s1-cg"
+    },
+    {
+      "Name": "S2 CG radio",
+      "Genre": "Zabavna",
+      "Stream": "https:\/\/5bc45691ca49f.streamlock.net\/asmedia\/radios2-cg\/playlist.m3u8",
+      "Logo": "https:\/\/epg.serbianforum.org\/radio\/s2cg.png",
+      "Site": "https:\/\/www.radios.rs\/digitalni-radio\/23\/radio-s2-cg"
     }
   ],
   "Bosnia": [
@@ -1193,6 +1277,13 @@
       "Stream": "http:\/\/www.radioba.ba:10002\/RadioBA-128",
       "Logo": "https:\/\/epg.serbianforum.org\/radio\/babh.png",
       "Site": "https:\/\/www.radioba.ba\/"
+    },
+    {
+      "Name": "S1 BH radio",
+      "Genre": "Zabavna",
+      "Stream": "https:\/\/53be5ef2d13aa.streamlock.net\/asmedia\/radios1-bih\/playlist.m3u8",
+      "Logo": "https:\/\/epg.serbianforum.org\/radio\/s1bh.png",
+      "Site": "https:\/\/www.radios.rs\/radio\/31\/radio-s-bih"
     }
   ],
   "Croatia": [
