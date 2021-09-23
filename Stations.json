@@ -2685,6 +2685,83 @@
       "Stream": "https:\/\/mp3channels.webradio.antenne.de\/workout-hits.aac",
       "Logo": "https:\/\/epg.serbianforum.org\/radio\/abwo.png",
       "Site": "https:\/\/www.antenne.de"
+    },
+    {
+      "Name": "Party Vibe Ambient",
+      "Genre": "United Kingdom",
+      "Stream": "http:\/\/www.partyviberadio.com:8056\/stream",
+      "Logo": "https:\/\/epg.serbianforum.org\/radio\/pva.png",
+      "Site": "http:\/\/www.partyvibe.com"
+    },
+    {
+      "Name": "Party Vibe Relaxation",
+      "Genre": "United Kingdom",
+      "Stream": "http:\/\/www.partyvibe.com:8056\/stream2",
+      "Logo": "https:\/\/epg.serbianforum.org\/radio\/pvr.png",
+      "Site": "http:\/\/www.partyvibe.com"
+    },
+    {
+      "Name": "Party Vibe Drum",
+      "Genre": "United Kingdom",
+      "Stream": "http:\/\/www.partyvibe.com:8004\/stream3",
+      "Logo": "https:\/\/epg.serbianforum.org\/radio\/pvd.png",
+      "Site": "http:\/\/www.partyvibe.com"
+    },
+    {
+      "Name": "Party Vibe Dubstep",
+      "Genre": "United Kingdom",
+      "Stream": "http:\/\/www.partyviberadio.com:8040\/stream",
+      "Logo": "https:\/\/epg.serbianforum.org\/radio\/pvdu.png",
+      "Site": "http:\/\/www.partyvibe.com"
+    },
+    {
+      "Name": "Party Vibe Pop",
+      "Genre": "United Kingdom",
+      "Stream": "http:\/\/www.partyviberadio.com:8024\/stream",
+      "Logo": "https:\/\/epg.serbianforum.org\/radio\/pvpop.png",
+      "Site": "http:\/\/www.partyvibe.com"
+    },
+    {
+      "Name": "Party Vibe Psychedelic",
+      "Genre": "United Kingdom",
+      "Stream": "http:\/\/uk1.internet-radio.com:8129\/stream",
+      "Logo": "https:\/\/epg.serbianforum.org\/radio\/pvpsiho.png",
+      "Site": "http:\/\/www.partyvibe.com"
+    },
+    {
+      "Name": "Party Vibe Rap",
+      "Genre": "United Kingdom",
+      "Stream": "http:\/\/www.partyviberadio.com:8016\/stream",
+      "Logo": "https:\/\/epg.serbianforum.org\/radio\/pvrap.png",
+      "Site": "http:\/\/www.partyvibe.com"
+    },
+    {
+      "Name": "Party Vibe Reggae",
+      "Genre": "United Kingdom",
+      "Stream": "http:\/\/www.partyvibe.com:8000\/stream3",
+      "Logo": "https:\/\/epg.serbianforum.org\/radio\/pvrege.png",
+      "Site": "http:\/\/www.partyvibe.com"
+    },
+    {
+      "Name": "Party Vibe Rock",
+      "Genre": "United Kingdom",
+      "Stream": "http:\/\/www.partyvibe.com:8032\/stream3",
+      "Logo": "https:\/\/epg.serbianforum.org\/radio\/pvrock.png",
+      "Site": "http:\/\/www.partyvibe.com"
+    },
+    {
+      "Name": "Party Vibe Techno",
+      "Genre": "United Kingdom",
+      "Stream": "http:\/\/www.partyviberadio.com:8046\/stream",
+      "Logo": "https:\/\/epg.serbianforum.org\/radio\/pvte.png",
+      "Site": "http:\/\/www.partyvibe.com"
+    },
+    {
+      "Name": "Party Vibe House ",
+      "Genre": "United Kingdom",
+      "Stream": "http:\/\/www.partyvibe.com:8046\/stream2",
+      "Logo": "https:\/\/epg.serbianforum.org\/radio\/pvhouse.png",
+      "Site": "http:\/\/www.partyvibe.com"
     }
   ]
 }
