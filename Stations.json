@@ -629,6 +629,27 @@
       "Stream": "http:\/\/radio.striminghost.com:8012\/wp-content\/uploads\/my-music\/mysong.mp3",
       "Logo": "https:\/\/epg.serbianforum.org\/radio\/grac.png",
       "Site": "http:\/\/rtg.rs\/"
+    },
+    {
+      "Name": "Red radio",
+      "Genre": "Zabavna",
+      "Stream": "https:\/\/stream.redradio.rs\/;?nocache=1644350606",
+      "Logo": "https:\/\/epg.serbianforum.org\/radio\/red.png",
+      "Site": "http:\/\/pink.rs\/"
+    },
+    {
+      "Name": "Super FM radio",
+      "Genre": "Zabavna",
+      "Stream": "http:\/\/onair.superfm.rs\/superfm.mp3",
+      "Logo": "https:\/\/epg.serbianforum.org\/radio\/superfm.png",
+      "Site": "http:\/\/superfm.rs\/"
+    },
+    {
+      "Name": "Moj radio",
+      "Genre": "Zabavna,Narodna",
+      "Stream": "http:\/\/eu4.fastcast4u.com\/proxy\/svidakov?mp=/1",
+      "Logo": "https:\/\/epg.serbianforum.org\/radio\/mojradio.png",
+      "Site": "http:\/\/mojradio.net\/"
     }
   ],
   "Montenegro": [
@@ -901,7 +922,7 @@
     {
       "Name": "Nova Narodna D+ radio",
       "Genre": "Narodna",
-      "Stream": "http:\/\/proxima.shoutca.st:8020\/stream",
+      "Stream": "http:\/\/proxima.shoutca.st:8020\/stream.m3u",
       "Logo": "https:\/\/epg.serbianforum.org\/radio\/novacg.png",
       "Site": "https:\/\/radiomap.eu\/me\/play\/dplus"
     },
@@ -1636,6 +1657,139 @@
       "Stream": "https:\/\/stream1.dns69it.com\/;",
       "Logo": "https:\/\/epg.serbianforum.org\/radio\/trendhr.png",
       "Site": "https:\/\/trend.com.hr\/"
+    },
+    {
+      "Name": "Domaci Radio Kneginec",
+      "Genre": "Zabavna,Pop,Dance",
+      "Stream": "http:\/\/node-20.zeno.fm:80\/wfp6304e268uv",
+      "Logo": "https:\/\/epg.serbianforum.org\/radio\/drk.jpg",
+      "Site": "http:\/\/zeno.fm\/radio\/"
+    },
+    {
+      "Name": "Folk Radio Kneginec",
+      "Genre": "Folk",
+      "Stream": "http:\/\/stream.zeno.fm\/yetzdv442k8uv",
+      "Logo": "https:\/\/epg.serbianforum.org\/radio\/frk.jpg",
+      "Site": "http:\/\/zeno.fm\/radio\/"
+    },
+    {
+      "Name": "Radio Techno Dance Kneginec",
+      "Genre": "Techno,Dance",
+      "Stream": "http:\/\/node-24.zeno.fm:80\/8d2pyzm5wp8uv",
+      "Logo": "https:\/\/epg.serbianforum.org\/radio\/tdk.jpg",
+      "Site": "https:\/\/zeno.fm\/radio\/"
+    },
+    {
+      "Name": "Rock Kneginec",
+      "Genre": "Rock",
+      "Stream": "http:\/\/node-23.zeno.fm:80\/ptve2z8nc18uv",
+      "Logo": "https:\/\/epg.serbianforum.org\/radio\/rk.jpg",
+      "Site": "https:\/\/zeno.fm\/radio\/"
+    },
+    {
+      "Name": "Top Hits Radio Kneginec",
+      "Genre": "Rock,Hip-hop,Pop,Dance",
+      "Stream": "http:\/\/node-30.zeno.fm\/c4kvver9bm8uv?rj-ttl=5&rj-tok=AAABfuPTdQcAJHdHRkwJLBnrLg",
+      "Logo": "https:\/\/epg.serbianforum.org\/radio\/thrk.jpg",
+      "Site": "https:\/\/zeno.fm\/radio\/"
+    },
+    {
+      "Name": "CMC Dalmatina",
+      "Genre": "Izvorna",
+      "Stream": "https://radio-stream.cmc.com.hr:9014/autodj",
+      "Logo": "https:\/\/epg.serbianforum.org\/radio\/dalmatina.jpg",
+      "Site": "https:\/\/uzivoradio.net\/cmc-dalmatina\/"
+    },
+    {
+      "Name": "CMC Tambure",
+      "Genre": "Domace",
+      "Stream": "https://radio-stream.cmc.com.hr:9015/autodj",
+      "Logo": "https:\/\/epg.serbianforum.org\/radio\/tambure.jpg",
+      "Site": "https:\/\/uzivoradio.net\/cmc-tambure\/"
+    },
+    {
+      "Name": "CMC Lagano",
+      "Genre": "Domaca",
+      "Stream": "https://radio-stream.cmc.com.hr:9013/autodj",
+      "Logo": "https:\/\/epg.serbianforum.org\/radio\/lagano.jpg",
+      "Site": "https:\/\/uzivoradio.net\/cmc-lagano\/"
+    },
+    {
+      "Name": "CMC Jugoton",
+      "Genre": "Zabavna,Narodna",
+      "Stream": "https://radio-stream.cmc.com.hr:9012/autodj",
+      "Logo": "https:\/\/epg.serbianforum.org\/radio\/jugoton.jpg",
+      "Site": "https:\/\/uzivoradio.net\/cmc-jugoton\/"
+    },
+    {
+      "Name": "CMC Zabavni",
+      "Genre": "Zabavna",
+      "Stream": "https://radio-stream.cmc.com.hr:9018/autodj",
+      "Logo": "https:\/\/epg.serbianforum.org\/radio\/zabavni.jpg",
+      "Site": "https:\/\/uzivoradio.net\/cmc-zabavni\/"
+    },
+    {
+      "Name": "CMC Classic",
+      "Genre": "Klasicna",
+      "Stream": "https://radio-stream.cmc.com.hr:9020/autodj",
+      "Logo": "https:\/\/epg.serbianforum.org\/radio\/cmcclassic.jpg",
+      "Site": "https:\/\/uzivoradio.net\/cmc-classic\/"
+    },
+    {
+      "Name": "CMC Festival",
+      "Genre": "Zabavna",
+      "Stream": "https://radio-stream.cmc.com.hr:9017/autodj",
+      "Logo": "https:\/\/epg.serbianforum.org\/radio\/festival.jpg",
+      "Site": "https:\/\/uzivoradio.net\/cmc-festival\/"
+    },
+    {
+      "Name": "CMC Kids",
+      "Genre": "Decija",
+      "Stream": "https://radio-stream.cmc.com.hr:9019/autodj",
+      "Logo": "https:\/\/epg.serbianforum.org\/radio\/kids.jpg",
+      "Site": "https:\/\/uzivoradio.net\/cmc-kids\/"
+    },
+    {
+      "Name": "CMC Zagreb",
+      "Genre": "Zabavna",
+      "Stream": "https://radio-stream.cmc.com.hr:9011/autodj",
+      "Logo": "https:\/\/epg.serbianforum.org\/radio\/zagreb.jpg",
+      "Site": "https:\/\/uzivoradio.net\/cmc-zagreb/"
+    },
+    {
+      "Name": "CMC Rock",
+      "Genre": "Zabavna,Rock",
+      "Stream": "https://radio-stream.cmc.com.hr:9016/autodj",
+      "Logo": "https:\/\/epg.serbianforum.org\/radio\/cmcrock.jpg",
+      "Site": "https:\/\/uzivoradio.net\/cmc-rock\/"
+    },
+    {
+      "Name": "Narodni Radio",
+      "Genre": "Zabavna,Narodna",
+      "Stream": "http://live.narodni.hr:8059/;?nocache=1634018443",
+      "Logo": "https:\/\/epg.serbianforum.org\/radio\/narodnir.jpg",
+      "Site": "http://www.uzivoradio.com/narodni-zagreb.html"
+    },
+    {
+      "Name": "Narodni Samo Sviraj",
+      "Genre": "Zabavna,Narodna",
+      "Stream": "http://live.narodni.hr:8175/;?nocache=1634030902",
+      "Logo": "https:\/\/epg.serbianforum.org\/radio\/sviraj.jpg",
+      "Site": "http://www.uzivoradio.com/narodni-zagreb.html"
+    },
+    {
+      "Name": "Narodni Samo Veselo",
+      "Genre": "Zabavna,Narodna",
+      "Stream": "http://live.narodni.hr:8051/;?nocache=1634030364",
+      "Logo": "https:\/\/epg.serbianforum.org\/radio\/veselo.jpg",
+      "Site": "http://www.uzivoradio.com/narodni-zagreb.html/"
+    },
+    {
+      "Name": "Narodni Totalno Opusteno",
+      "Genre": "Zabavna,Narodna",
+      "Stream": "http://live.narodni.hr:8039/;?nocache=1634030318",
+      "Logo": "https:\/\/epg.serbianforum.org\/radio\/opusteno.jpg",
+      "Site": "http://www.uzivoradio.com/narodni-zagreb.html"
     }
   ],
   "Macedonia": [
