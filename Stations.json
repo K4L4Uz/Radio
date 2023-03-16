@@ -2,35 +2,35 @@
   "Serbia": [
     {
       "Name": "Pingvin radio",
-      "Genre": " Zabavna, Pop, Mix ",
+      "Genre": "Zabavna, Pop, Mix",
       "Stream": "http:\/\/uzivo4.radiopingvin.com:8187\/live",
       "Logo": "https:\/\/epg.serbianforum.org\/radio\/pingvin.png",
       "Site": "https:\/\/www.radiopingvin.com\/"
     },
     {
       "Name": "Pink radio",
-      "Genre": " Narodna, Folk ",
+      "Genre": "Narodna, Folk",
       "Stream": "http:\/\/pink.exyuserver.com\/;stream.mp3",
       "Logo": "https:\/\/epg.serbianforum.org\/radio\/pink.jpg",
       "Site": "http:\/\/www.pinkradio.com\/"
     },
     {
       "Name": "Ok radio",
-      "Genre": " Narodna, Pop, Folk ",
+      "Genre": "Narodna, Pop, Folk",
       "Stream": "http:\/\/live.okradio.net:8020\/;",
       "Logo": "https:\/\/epg.serbianforum.org\/radio\/ok.jpg",
       "Site": "http:\/\/www.okradio.net\/"
     },
     {
       "Name": "Tdi radio",
-      "Genre": " House, Zabavna, Electro ",
+      "Genre": "House, Zabavna, Electro",
       "Stream": "http:\/\/streaming.tdiradio.com\/tdiradio",
       "Logo": "https:\/\/epg.serbianforum.org\/radio\/tdi.jpg",
       "Site": "https:\/\/tdiradio.com\/"
     },
     {
       "Name": "Hit FM radio",
-      "Genre": " Zabavna, 80's ",
+      "Genre": "Zabavna, 80's",
       "Stream": "http:\/\/streaming.hitfm.rs:8000\/hit?type=.flv",
       "Logo": "https:\/\/epg.serbianforum.org\/radio\/hit.png",
       "Site": "https:\/\/hitfm.rs\/"
@@ -44,7 +44,7 @@
     },
     {
       "Name": "S1 radio",
-      "Genre": " Pop, Zabavna, Rock ",
+      "Genre": "Pop, Zabavna, Rock",
       "Stream": "https:\/\/stream.radios.rs:9000\/;*.mp3",
       "Logo": "https:\/\/epg.serbianforum.org\/radio\/1.png",
       "Site": "https:\/\/www.radios.rs\/radios1\/"
@@ -58,14 +58,14 @@
     },
     {
       "Name": "S3 radio",
-      "Genre": " Zabavna, Pop, Mix ",
+      "Genre": "Zabavna, Pop, Mix",
       "Stream": "https:\/\/53be5ef2d13aa.streamlock.net\/asmedia\/pingvin\/playlist.m3u8",
       "Logo": "https:\/\/epg.serbianforum.org\/radio\/3.png",
       "Site": "https:\/\/www.radios.rs\/radios3\/"
     },
     {
       "Name": "S4 radio",
-      "Genre": " Pop, Rock, 60's ",
+      "Genre": "Pop, Rock, 60's",
       "Stream": "https:\/\/5bc45691ca49f.streamlock.net\/asmedia\/gradski\/playlist.m3u8",
       "Logo": "https:\/\/epg.serbianforum.org\/radio\/4.png",
       "Site": "https:\/\/www.radios.rs\/radios4\/"
@@ -86,14 +86,14 @@
     },
     {
       "Name": "Sljivovica radio",
-      "Genre": " Narodna, Mix, Folk ",
+      "Genre": "Narodna, Mix, Folk",
       "Stream": "http:\/\/stream.dzenarika.net:8114\/stream",
       "Logo": "https:\/\/epg.serbianforum.org\/radio\/sljiv.png",
       "Site": "http:\/\/www.radiosljivovica.net\/"
     },
     {
       "Name": "Civijas radio",
-      "Genre": " Narodna, 60's, Mix ",
+      "Genre": "Narodna, 60's, Mix",
       "Stream": "http:\/\/radio.civijasserver.com:8000\/;*.mp3",
       "Logo": "https:\/\/epg.serbianforum.org\/radio\/civ.jpg",
       "Site": "https:\/\/fm.rs\/rs\/civijas-radio-sabac\/"
@@ -121,7 +121,7 @@
     },
     {
       "Name": "Max FM radio",
-      "Genre": " R'n'b, Dance, Mix ",
+      "Genre": "R'n'b, Dance, Mix",
       "Stream": "http:\/\/85.25.73.243:9840\/;",
       "Logo": "https:\/\/epg.serbianforum.org\/radio\/max.png",
       "Site": "http:\/\/www.maxfm.rs\/"
@@ -610,7 +610,7 @@
       "Site": "https:\/\/www.rtv.rs\/"
     },
     {
-      "Name": "San Loznica radio ",
+      "Name": "San Loznica radio",
       "Genre": "Zabavna",
       "Stream": "https:\/\/s1.skeletor.rs\/san",
       "Logo": "https:\/\/epg.serbianforum.org\/radio\/san.png",
@@ -1323,11 +1323,11 @@
       "Site": "http:\/\/www.otvoreni.hr"
     },
     {
-      "Name": "Bravo Radio",
-      "Genre": "Live",
-      "Stream": "http:\/\/c5.hostingcentar.com:8059\/;",
-      "Logo": "http:\/\/streaming.br.hr\/stream\/noimageavailable.jpg",
-      "Site": "https:\/\/br.hr\/"
+      "Name": "Narodni radio",
+      "Genre": "Zabavna, Pop, Rock, Narodna",
+      "Stream": "http:\/\/live.narodni.hr:8063\/stream",
+      "Logo": "https:\/\/epg.serbianforum.org\/radio\/na.jpg",
+      "Site": "http:\/\/www.narodni.hr"
     },
     {
       "Name": "Dalmacija radio",
@@ -1764,32 +1764,32 @@
       "Site": "https:\/\/uzivoradio.net\/cmc-rock\/"
     },
     {
-      "Name": "Bravo Rock",
-      "Genre": "Rock",
-      "Stream": "http:\/\/c5.hostingcentar.com:8348\/;",
-      "Logo": "http:\/\/streaming.br.hr\/stream\/noimageavailable.jpg",
-      "Site": "https:\/\/br.hr\/"
+      "Name": "Narodni Radio",
+      "Genre": "Zabavna,Narodna",
+      "Stream": "http://live.narodni.hr:8059/;?nocache=1634018443",
+      "Logo": "https:\/\/epg.serbianforum.org\/radio\/narodnir.jpg",
+      "Site": "http://www.uzivoradio.com/narodni-zagreb.html"
     },
     {
-      "Name": "Bravo balade",
-      "Genre": "Balade",
-      "Stream": "http:\/\/c5.hostingcentar.com:8360\/;",
-      "Logo": "http:\/\/streaming.br.hr\/stream\/noimageavailable.jpg",
-      "Site": "https:\/\/br.hr\/"
+      "Name": "Narodni Samo Sviraj",
+      "Genre": "Zabavna,Narodna",
+      "Stream": "http://live.narodni.hr:8175/;?nocache=1634030902",
+      "Logo": "https:\/\/epg.serbianforum.org\/radio\/sviraj.jpg",
+      "Site": "http://www.uzivoradio.com/narodni-zagreb.html"
     },
     {
-      "Name": "Bravo Pop",
-      "Genre": "Pop",
-      "Stream": "http:\/\/c5.hostingcentar.com:8354\/;",
-      "Logo": "http:\/\/streaming.br.hr\/stream\/noimageavailable.jpg",
-      "Site": "https:\/\/br.hr\/"
+      "Name": "Narodni Samo Veselo",
+      "Genre": "Zabavna,Narodna",
+      "Stream": "http://live.narodni.hr:8051/;?nocache=1634030364",
+      "Logo": "https:\/\/epg.serbianforum.org\/radio\/veselo.jpg",
+      "Site": "http://www.uzivoradio.com/narodni-zagreb.html/"
     },
     {
-      "Name": "Bravo Feel",
-      "Genre": "Feel",
-      "Stream": "http:\/\/c5.hostingcentar.com:8366\/;",
-      "Logo": "http:\/\/streaming.br.hr\/stream\/noimageavailable.jpg",
-      "Site": "https:\/\/br.hr\/"
+      "Name": "Narodni Totalno Opusteno",
+      "Genre": "Zabavna,Narodna",
+      "Stream": "http://live.narodni.hr:8039/;?nocache=1634030318",
+      "Logo": "https:\/\/epg.serbianforum.org\/radio\/opusteno.jpg",
+      "Site": "http://www.uzivoradio.com/narodni-zagreb.html"
     }
   ],
   "Macedonia": [
@@ -2126,14 +2126,14 @@
     },
     {
       "Name": "1 radio",
-      "Genre": " Zabavna, Pop, Mix ",
+      "Genre": "Zabavna, Pop, Mix",
       "Stream": "http:\/\/live3.infonetmedia.si:8000\/Radio1",
       "Logo": "https:\/\/epg.serbianforum.org\/radio\/r1.jpg",
       "Site": "https:\/\/www.radio1.si\/"
     },
     {
       "Name": "Veseljak radio",
-      "Genre": " Zabavna, Mix, 60's ",
+      "Genre": "Zabavna, Mix, 60's",
       "Stream": "http:\/\/185.97.52.63\/Veseljak",
       "Logo": "https:\/\/epg.serbianforum.org\/radio\/ves.png",
       "Site": "https:\/\/veseljak.si\/"
@@ -2147,14 +2147,14 @@
     },
     {
       "Name": "City radio",
-      "Genre": " Pop, Zabavna ",
+      "Genre": "Pop, Zabavna",
       "Stream": "http:\/\/82.149.22.34:8000\/CityMp364mono.mp3",
       "Logo": "https:\/\/epg.serbianforum.org\/radio\/citty.jpg",
       "Site": "http:\/\/www.radiocity.si\/"
     },
     {
       "Name": "Solomon radio",
-      "Genre": " Pop, Mix, 60's ",
+      "Genre": "Pop, Mix, 60's",
       "Stream": "http:\/\/185.97.52.63\/Salomon",
       "Logo": "https:\/\/epg.serbianforum.org\/radio\/sol.jpg",
       "Site": "https:\/\/radiosalomon.si\/"
@@ -2196,14 +2196,14 @@
     },
     {
       "Name": "Primorski val radio",
-      "Genre": " Pop, Zabavna ",
+      "Genre": "Pop, Zabavna",
       "Stream": "http:\/\/212.44.99.35:8000\/stream",
       "Logo": "https:\/\/epg.serbianforum.org\/radio\/prv.jpg",
       "Site": "http:\/\/www.murskival.si\/"
     },
     {
       "Name": "Moj radio",
-      "Genre": " Pop, Zabavna ",
+      "Genre": "Pop, Zabavna",
       "Stream": "http:\/\/streamin.linit.si:8006\/",
       "Logo": "https:\/\/epg.serbianforum.org\/radio\/mr.jpg",
       "Site": "http:\/\/www.mojradio.com\/"
@@ -2231,7 +2231,7 @@
     },
     {
       "Name": "Student radio",
-      "Genre": " Mix, Pop ",
+      "Genre": "Mix, Pop",
       "Stream": "http:\/\/kruljo.radiostudent.si:8000\/hiq",
       "Logo": "https:\/\/epg.serbianforum.org\/radio\/stu.png",
       "Site": "https:\/\/radiostudent.si\/"
@@ -2315,7 +2315,7 @@
     },
     {
       "Name": "Murski Val radio",
-      "Genre": " Pop, Zabavna ",
+      "Genre": "Pop, Zabavna",
       "Stream": "http:\/\/89.142.197.238:8000\/mv.mp3",
       "Logo": "https:\/\/epg.serbianforum.org\/radio\/mmv.jpg",
       "Site": "http:\/\/www.murskival.si\/"
@@ -2336,7 +2336,7 @@
     },
     {
       "Name": "Facebook radio",
-      "Genre": " Narodna, Folk ",
+      "Genre": "Narodna, Folk",
       "Stream": "http:\/\/shnpdecct1.dihostnet.com:8026\/;*.mp3",
       "Logo": "https:\/\/epg.serbianforum.org\/radio\/ff.jpg",
       "Site": "http:\/\/www.radiofacebook.online"
@@ -2357,7 +2357,7 @@
     },
     {
       "Name": "Aktual radio",
-      "Genre": " Pop, Mix, 60's ",
+      "Genre": "Pop, Mix, 60's",
       "Stream": "https:\/\/live.radio.si\/Aktual",
       "Logo": "https:\/\/epg.serbianforum.org\/radio\/a.jpg",
       "Site": "https:\/\/radioaktual.si\/"
@@ -2399,7 +2399,7 @@
     },
     {
       "Name": "A radio",
-      "Genre": "Pop, Zabavna ",
+      "Genre": "Pop, Zabavna",
       "Stream": "https:\/\/zvok.ragla.si\/ord",
       "Logo": "https:\/\/epg.serbianforum.org\/radio\/a.png",
       "Site": "https:\/\/fmscan.org\/net.php?sid=73836&pxf=A-Radio&m=s&r=d&itu=0"
@@ -2420,7 +2420,7 @@
     },
     {
       "Name": "Krka radio",
-      "Genre": "Zabavna ",
+      "Genre": "Zabavna",
       "Stream": "http:\/\/185.97.52.63\/Krka",
       "Logo": "https:\/\/epg.serbianforum.org\/radio\/krka.png",
       "Site": "https:\/\/radiokrka.si\/"
@@ -2441,7 +2441,7 @@
     },
     {
       "Name": "Center Fresh pop radio",
-      "Genre": " Pop",
+      "Genre": "Pop",
       "Stream": "http:\/\/stream3.radiocenter.si\/proxy\/centerpop3?mp=\/stream",
       "Logo": "https:\/\/epg.serbianforum.org\/radio\/fresh.png",
       "Site": "http:\/\/radiocenter.si\/"
@@ -2464,28 +2464,28 @@
   "Other": [
     {
       "Name": "Heart 80s radio",
-      "Genre": "United Kingdom ",
+      "Genre": "United Kingdom",
       "Stream": "https:\/\/media-ssl.musicradio.com\/Heart80s",
       "Logo": "https:\/\/epg.serbianforum.org\/radio\/heart80.png",
       "Site": "https:\/\/www.heart.co.uk\/80s"
     },
     {
       "Name": "Capital FM radio",
-      "Genre": "United Kingdom ",
+      "Genre": "United Kingdom",
       "Stream": "https:\/\/media-ice.musicradio.com\/CapitalEdinburghMP3",
       "Logo": "https:\/\/epg.serbianforum.org\/radio\/capitalfm.jpg",
       "Site": "https:\/\/www.capitalfm.com\/digital "
     },
     {
       "Name": "Smooth Radio",
-      "Genre": "United Kingdom ",
+      "Genre": "United Kingdom",
       "Stream": "https:\/\/media-ice.musicradio.com\/SmoothScotlandMP3",
       "Logo": "https:\/\/epg.serbianforum.org\/radio\/smouth.jpg",
       "Site": "http:\/\/www.smoothradio.co.uk "
     },
     {
-      "Name": "Heart 70s radio ",
-      "Genre": "United Kingdom ",
+      "Name": "Heart 70s radio",
+      "Genre": "United Kingdom",
       "Stream": "https:\/\/media-ssl.musicradio.com\/Heart70s",
       "Logo": "https:\/\/epg.serbianforum.org\/radio\/heart70.png",
       "Site": "https:\/\/www.radio-uk.co.uk\/heart-70s"
@@ -2911,7 +2911,7 @@
       "Site": "http:\/\/www.partyvibe.com"
     },
     {
-      "Name": "Party Vibe House ",
+      "Name": "Party Vibe House",
       "Genre": "United Kingdom",
       "Stream": "http:\/\/www.partyvibe.com:8046\/stream2",
       "Logo": "https:\/\/epg.serbianforum.org\/radio\/pvhouse.png",
